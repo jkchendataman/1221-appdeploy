@@ -1,4 +1,4 @@
 build:
-  image: registry:5000/oracle/1221-domain
+  image: registry:5000/library/1221-domain
   commands:
     - echo 'done'

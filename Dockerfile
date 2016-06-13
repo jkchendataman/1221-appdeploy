@@ -17,7 +17,7 @@
 
 # Pull base image
 # ---------------
-FROM registry:5000/oracle/1221-domain
+FROM registry:5000/library/1221-domain
 
 # Maintainer
 # ----------
